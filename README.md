@@ -29,5 +29,3 @@ If you have some problems in the 14 days after payment don't worry because you c
 
 # Credits
 Developer's WebSite: https://www.autistici.org/nonameon
-
-
